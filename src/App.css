@@ -29,7 +29,9 @@ a:hover{
 .app{
     display: flex;
     overflow: hidden;
+    
 }
+
 
 .navbar{
     flex: 0.2;
@@ -41,6 +43,7 @@ a:hover{
     width: 100%; 
     position: relative;
     left: 10%;
+    background-color: #000;
 }
 .routes{
     padding: 20px;
